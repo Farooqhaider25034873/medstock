@@ -1,0 +1,2 @@
+# No third-party packages are needed.
+# MedStock only uses the Python standard library (including tkinter).
