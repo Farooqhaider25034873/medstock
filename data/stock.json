@@ -1,0 +1,185 @@
+{
+  "items": [
+    {
+      "code": "PAN-001",
+      "name": "Paracetamol 500mg Tablets (16)",
+      "category": "Painkillers",
+      "quantity": 240,
+      "price": 0.99,
+      "expiry": "2028-03-31",
+      "reorder_level": 50
+    },
+    {
+      "code": "PAN-002",
+      "name": "Ibuprofen 200mg Tablets (24)",
+      "category": "Painkillers",
+      "quantity": 35,
+      "price": 1.49,
+      "expiry": "2027-06-30",
+      "reorder_level": 40
+    },
+    {
+      "code": "PAN-003",
+      "name": "Aspirin 75mg Tablets (28)",
+      "category": "Painkillers",
+      "quantity": 120,
+      "price": 1.2,
+      "expiry": "2026-12-10",
+      "reorder_level": 30
+    },
+    {
+      "code": "ANT-101",
+      "name": "Amoxicillin 250mg Capsules (21)",
+      "category": "Antibiotics",
+      "quantity": 18,
+      "price": 4.75,
+      "expiry": "2027-09-15",
+      "reorder_level": 20
+    },
+    {
+      "code": "ANT-102",
+      "name": "Clarithromycin 500mg Tablets (14)",
+      "category": "Antibiotics",
+      "quantity": 60,
+      "price": 8.9,
+      "expiry": "2027-11-01",
+      "reorder_level": 15
+    },
+    {
+      "code": "VIT-201",
+      "name": "Vitamin D3 1000IU Tablets (90)",
+      "category": "Vitamins",
+      "quantity": 75,
+      "price": 5.99,
+      "expiry": "2028-01-31",
+      "reorder_level": 20
+    },
+    {
+      "code": "VIT-202",
+      "name": "Vitamin C 1000mg Effervescent (20)",
+      "category": "Vitamins",
+      "quantity": 0,
+      "price": 3.49,
+      "expiry": "2027-05-31",
+      "reorder_level": 15
+    },
+    {
+      "code": "VIT-203",
+      "name": "Multivitamin Gummies (60)",
+      "category": "Vitamins",
+      "quantity": 44,
+      "price": 7.5,
+      "expiry": "2026-11-15",
+      "reorder_level": 10
+    },
+    {
+      "code": "CLD-301",
+      "name": "Chesty Cough Syrup 200ml",
+      "category": "Cold & Flu",
+      "quantity": 28,
+      "price": 4.25,
+      "expiry": "2027-02-28",
+      "reorder_level": 12
+    },
+    {
+      "code": "CLD-302",
+      "name": "Cetirizine 10mg Tablets (30)",
+      "category": "Allergy",
+      "quantity": 150,
+      "price": 2.1,
+      "expiry": "2028-06-30",
+      "reorder_level": 30
+    },
+    {
+      "code": "CLD-303",
+      "name": "Saline Nasal Spray 15ml",
+      "category": "Cold & Flu",
+      "quantity": 9,
+      "price": 5.6,
+      "expiry": "2027-04-30",
+      "reorder_level": 10
+    },
+    {
+      "code": "FAD-401",
+      "name": "Assorted Plasters (40)",
+      "category": "First Aid",
+      "quantity": 85,
+      "price": 2.75,
+      "expiry": "2029-12-31",
+      "reorder_level": 25
+    },
+    {
+      "code": "FAD-402",
+      "name": "Antiseptic Cream 30g",
+      "category": "First Aid",
+      "quantity": 52,
+      "price": 3.4,
+      "expiry": "2027-10-31",
+      "reorder_level": 15
+    },
+    {
+      "code": "FAD-403",
+      "name": "Crepe Bandage 7.5cm",
+      "category": "First Aid",
+      "quantity": 30,
+      "price": 1.95,
+      "expiry": "2030-01-31",
+      "reorder_level": 10
+    },
+    {
+      "code": "SKN-501",
+      "name": "Hydrocortisone Cream 1% 15g",
+      "category": "Skin Care",
+      "quantity": 22,
+      "price": 4.99,
+      "expiry": "2027-08-31",
+      "reorder_level": 10
+    },
+    {
+      "code": "SKN-502",
+      "name": "Sun Cream SPF50 200ml",
+      "category": "Skin Care",
+      "quantity": 16,
+      "price": 9.99,
+      "expiry": "2027-07-31",
+      "reorder_level": 8
+    }
+  ],
+  "sales": [
+    {
+      "code": "PAN-001",
+      "name": "Paracetamol 500mg Tablets (16)",
+      "quantity": 12,
+      "unit_price": 0.99,
+      "sold_on": "2026-11-18"
+    },
+    {
+      "code": "CLD-301",
+      "name": "Chesty Cough Syrup 200ml",
+      "quantity": 4,
+      "unit_price": 4.25,
+      "sold_on": "2026-11-19"
+    },
+    {
+      "code": "PAN-002",
+      "name": "Ibuprofen 200mg Tablets (24)",
+      "quantity": 6,
+      "unit_price": 1.49,
+      "sold_on": "2026-11-20"
+    },
+    {
+      "code": "PAN-001",
+      "name": "Paracetamol 500mg Tablets (16)",
+      "quantity": 8,
+      "unit_price": 0.99,
+      "sold_on": "2026-11-21"
+    },
+    {
+      "code": "VIT-201",
+      "name": "Vitamin D3 1000IU Tablets (90)",
+      "quantity": 3,
+      "unit_price": 5.99,
+      "sold_on": "2026-11-21"
+    }
+  ]
+}
